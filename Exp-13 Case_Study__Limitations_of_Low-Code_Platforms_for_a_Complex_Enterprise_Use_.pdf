@@ -1,0 +1,415 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 6933
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.721569 .772549 .839216 RG
+n 51.02362 42.51969 m 544.252 42.51969 l S
+BT /F1 8 Tf 9.6 TL ET
+.333333 .333333 .333333 rg
+BT 1 0 0 1 51.02362 25.51181 Tm (Zoho Creator Lab Record | Insurance Claim Management) Tj T* ET
+BT 1 0 0 1 518.9 25.51181 Tm (Page 1) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 759.3543 cm
+Q
+q
+1 0 0 1 57.02362 746.3543 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL 203.1319 0 Td (EXPERIMENT 13) Tj T* -203.1319 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 690.3543 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 27 Tm /F2 17 Tf 22 TL 27.61267 0 Td (Case Study: Limitations of Low-Code Platforms for a) Tj T* 92.072 0 Td (Complex Enterprise Use Case) Tj T* -119.6847 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 665.3543 cm
+q
+BT 1 0 0 1 0 3.5 Tm 97.08817 0 Td 13 TL /F1 9.5 Tf .333333 .333333 .333333 rg (Insurance Claim Request & Processing Management | Zoho Creator) Tj T* -97.08817 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 644.8504 cm
+Q
+q
+1 0 0 1 57.02362 622.8504 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Objective) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 591.8504 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.8 Tm /F1 9.2 Tf 12.5 TL (Analyze where a low-code claim-management prototype may need extensions, integrations or a different architecture) Tj T* (at enterprise scale.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 569.8504 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Platform / Application) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 526.3504 cm
+q
+BT 1 0 0 1 0 28.3 Tm 12.5 TL /F1 9.2 Tf 0 0 0 rg (Platform: Zoho Creator. Application: Insurance Claim Command Center / Insurance Claim Request & Processing) Tj T* (Management. Primary form: Claim_Request_Form. Steps involving account settings or advanced services should be) Tj T* (verified in the live application.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 504.3504 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Theory) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 473.3504 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.8 Tm /F1 9.2 Tf 12.5 TL (Low-code platforms can accelerate standard workflows, but constraints may include platform-specific scripting, service) Tj T* (limits, complex integration needs, customization boundaries, data residency requirements and vendor lock-in.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 451.3504 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Procedure) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 420.3504 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.8 Tm /F1 9.2 Tf 12.5 TL -0.024121 Tw (1. Define a larger scenario: multiple branches, high claim volume, external policy systems, fraud review and strict audit) Tj T* 0 Tw (requirements.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 389.3504 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.8 Tm /F1 9.2 Tf 12.5 TL (2. Separate needs that fit native forms/reports/workflows from needs requiring APIs, custom functions or external) Tj T* (services.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 370.8504 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.3 Tm /F1 9.2 Tf 12.5 TL (3. Evaluate scalability, performance, integration reliability, security, compliance, portability and total cost.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 352.3504 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.3 Tm /F1 9.2 Tf 12.5 TL (4. Identify a fallback for integration outages and a process for exporting or migrating data.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 321.3504 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.8 Tm /F1 9.2 Tf 12.5 TL (5. Recommend a hybrid design where low-code handles user-facing workflow and specialized services handle) Tj T* (requirements that exceed the platform.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 299.3504 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Design / Observation Table) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 178.3504 cm
+q
+.141176 .278431 .419608 rg
+n 0 117 493.2283 -19.5 re f*
+1 1 1 rg
+n 0 97.5 493.2283 -19.5 re f*
+.952941 .964706 .980392 rg
+n 0 78 493.2283 -19.5 re f*
+1 1 1 rg
+n 0 58.5 493.2283 -19.5 re f*
+.952941 .964706 .980392 rg
+n 0 39 493.2283 -19.5 re f*
+1 1 1 rg
+n 0 19.5 493.2283 -19.5 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 102.5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F1 8 Tf 9.5 TL (Potential limitation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 251.6142 102.5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F1 8 Tf 9.5 TL (Mitigation / decision) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 83 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.7 Tm /F1 7.8 Tf 9.5 TL (Platform lock-in) Tj T* ET
+Q
+Q
+q
+1 0 0 1 251.6142 83 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.7 Tm /F1 7.8 Tf 9.5 TL (Document data model and export/migration plan) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 63.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.7 Tm /F1 7.8 Tf 9.5 TL (Complex business logic) Tj T* ET
+Q
+Q
+q
+1 0 0 1 251.6142 63.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.7 Tm /F1 7.8 Tf 9.5 TL (Use tested functions or a dedicated service where justified) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 44 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.7 Tm /F1 7.8 Tf 9.5 TL (Integration failures) Tj T* ET
+Q
+Q
+q
+1 0 0 1 251.6142 44 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.7 Tm /F1 7.8 Tf 9.5 TL (Retries, monitoring and reconciliation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 24.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.7 Tm /F1 7.8 Tf 9.5 TL (Large reports) Tj T* ET
+Q
+Q
+q
+1 0 0 1 251.6142 24.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.7 Tm /F1 7.8 Tf 9.5 TL (Optimize filters and report layout; load-test) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.7 Tm /F1 7.8 Tf 9.5 TL (Governance at scale) Tj T* ET
+Q
+Q
+q
+1 0 0 1 251.6142 5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.7 Tm /F1 7.8 Tf 9.5 TL (Central ownership, environment separation and reviews) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.721569 .772549 .839216 RG
+.4 w
+n 0 117 m 493.2283 117 l S
+n 0 0 m 493.2283 0 l S
+n 0 0 m 0 117 l S
+n 493.2283 0 m 493.2283 117 l S
+n 0 97.5 m 493.2283 97.5 l S
+n 0 78 m 493.2283 78 l S
+n 0 58.5 m 493.2283 58.5 l S
+n 0 39 m 493.2283 39 l S
+n 0 19.5 m 493.2283 19.5 l S
+n 246.6142 0 m 246.6142 117 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 172.3504 cm
+Q
+q
+1 0 0 1 57.02362 150.3504 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Result / Conclusion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 119.3504 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.8 Tm /F1 9.2 Tf 12.5 TL (Low-code is effective for many workflow applications but should be assessed against measurable enterprise) Tj T* (requirements. A hybrid architecture may balance delivery speed with control.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 97.35039 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Implementation note) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 71.35039 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (This is a lab-record document tailored to the insurance-claim application. Guidance about deployment, security, integration or custom) Tj T* (functions is not proof that the feature is already configured; verify it in the live Zoho Creator account.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 507.8156 807.8898 Tm
+(Nishal P) Tj
+T*
+ET
+BT
+/F1-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 497.2356 793.8898 Tm
+(241501130) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000417 00000 n 
+0000007402 00000 n 
+0000007509 00000 n 
+0000007616 00000 n 
+0000007728 00000 n 
+trailer
+<<
+/Size 10
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+7840
+%%EOF

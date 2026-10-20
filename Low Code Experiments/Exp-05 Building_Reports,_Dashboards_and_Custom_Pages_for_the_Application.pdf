@@ -1,0 +1,441 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 10 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 6329
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.721569 .772549 .839216 RG
+n 51.02362 42.51969 m 544.252 42.51969 l S
+BT /F1 8 Tf 9.6 TL ET
+.333333 .333333 .333333 rg
+BT 1 0 0 1 51.02362 25.51181 Tm (Zoho Creator Lab Record | Insurance Claim Management) Tj T* ET
+BT 1 0 0 1 518.9 25.51181 Tm (Page 1) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 753.685 cm
+Q
+q
+1 0 0 1 57.02362 739.685 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL 203.9392 0 Td (EXPERIMENT 5) Tj T* -203.9392 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 679.685 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 28 Tm /F2 18 Tf 23 TL 13.07617 0 Td (Building Reports, Dashboards and Custom Pages for) Tj T* 162.531 0 Td (the Application) Tj T* -175.6072 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 653.685 cm
+q
+BT 1 0 0 1 0 4 Tm 89.53417 0 Td 14 TL /F1 10 Tf .333333 .333333 .333333 rg (Insurance Claim Request & Processing Management | Zoho Creator) Tj T* -89.53417 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 628.3465 cm
+Q
+q
+1 0 0 1 57.02362 604.3465 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (Objective) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 585.3465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.7 Tm /F1 9.3 Tf 13 TL (Present claim records in useful views so the claims team can monitor incoming requests and processing status.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 561.3465 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (Platform / Application) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 516.3465 cm
+q
+BT 1 0 0 1 0 29.7 Tm 13 TL /F1 9.3 Tf 0 0 0 rg (Platform: Zoho Creator. Application: Insurance Claim Command Center / Insurance Claim Request & Processing) Tj T* (Management. Primary form: Claim_Request_Form. The LC-04 specification and supplied application export were) Tj T* (used as the project context.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 492.3465 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (Theory) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 460.3465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.7 Tm /F1 9.3 Tf 13 TL (Reports expose stored records in list, spreadsheet, calendar, kanban or other supported formats. Dashboards and) Tj T* (custom pages can summarize workload using counts and charts, subject to available platform features.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 436.3465 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (Procedure) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 404.3465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.7 Tm /F1 9.3 Tf 13 TL (1. Create a report from Claim_Request_Form and display claim reference, policy number, claimant, claim type,) Tj T* (amount, incident date and status.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 372.3465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.7 Tm /F1 9.3 Tf 13 TL (2. Add filters for Claim_Type, Claimant_Type and Claim_Status; sort incident dates with the newest first where) Tj T* (appropriate.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 353.3465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.7 Tm /F1 9.3 Tf 13 TL (3. Create a kanban-style view grouped by Claim_Status if supported.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 334.3465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.7 Tm /F1 9.3 Tf 13 TL (4. Design a dashboard with total claims, claims under investigation, approved claims and claims awaiting settlement.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 315.3465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.7 Tm /F1 9.3 Tf 13 TL (5. Preview each view with test records and verify that only appropriate fields are exposed to each user role.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 291.3465 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (Design / Observation Table) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 168.8465 cm
+q
+.141176 .278431 .419608 rg
+n 0 117.5 493.2283 -20 re f*
+1 1 1 rg
+n 0 97.5 493.2283 -19.5 re f*
+.952941 .964706 .980392 rg
+n 0 78 493.2283 -19.5 re f*
+1 1 1 rg
+n 0 58.5 493.2283 -19.5 re f*
+.952941 .964706 .980392 rg
+n 0 39 493.2283 -19.5 re f*
+1 1 1 rg
+n 0 19.5 493.2283 -19.5 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 102.5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (View) Tj T* ET
+Q
+Q
+q
+1 0 0 1 251.6142 102.5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Purpose) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 83 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.7 Tf 9.5 TL (All Claims List) Tj T* ET
+Q
+Q
+q
+1 0 0 1 251.6142 83 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.7 Tf 9.5 TL (Daily claim review and filtering) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 63.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.7 Tf 9.5 TL (Spreadsheet) Tj T* ET
+Q
+Q
+q
+1 0 0 1 251.6142 63.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.7 Tf 9.5 TL (Bulk review and export-oriented analysis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 44 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.7 Tf 9.5 TL (Status Kanban) Tj T* ET
+Q
+Q
+q
+1 0 0 1 251.6142 44 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.7 Tf 9.5 TL (Visualize work by processing stage) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 24.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.7 Tf 9.5 TL (Incident Calendar) Tj T* ET
+Q
+Q
+q
+1 0 0 1 251.6142 24.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.7 Tf 9.5 TL (Review incidents by date) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.7 Tf 9.5 TL (Dashboard page) Tj T* ET
+Q
+Q
+q
+1 0 0 1 251.6142 5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.7 Tf 9.5 TL (Summarize volume, status and claim type) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.721569 .772549 .839216 RG
+.4 w
+n 0 117.5 m 493.2283 117.5 l S
+n 0 0 m 493.2283 0 l S
+n 0 0 m 0 117.5 l S
+n 493.2283 0 m 493.2283 117.5 l S
+n 0 97.5 m 493.2283 97.5 l S
+n 0 78 m 493.2283 78 l S
+n 0 58.5 m 493.2283 58.5 l S
+n 0 39 m 493.2283 39 l S
+n 0 19.5 m 493.2283 19.5 l S
+n 246.6142 0 m 246.6142 117.5 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 161.8465 cm
+Q
+q
+1 0 0 1 57.02362 137.8465 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (Result / Conclusion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 105.8465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.7 Tm /F1 9.3 Tf 13 TL -0.041088 Tw (Multiple report styles support different tasks. The supplied app export contains All_Claims_List, Claims_Spreadsheet,) Tj T* 0 Tw (Claim_Status_Kanban and Incident_Date_Calendar; dashboard elements should be verified in the live app.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 81.84646 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (Implementation note) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 507.8156 807.8898 Tm
+(Nishal P) Tj
+T*
+ET
+BT
+/F1-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 497.2356 793.8898 Tm
+(241501130) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/Contents 11 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 12 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+11 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 515
+>>
+stream
+Gar&:_/>bs&A@ZMn$oJX0)!-`lD]cs.T.`R$)cX=0rum8;e%!pp#A-\bpHYRChr1XS+joB.4r:$C&gHLq!aQ$$e-2A`\Q'<peiKS'35C1+"ORi&:$`XH)Lj1ipg74OE6_F_bhNi/E[ba#38q,7/eNDnW]R>bE]eNa"oe=C`iX@6baE+Zc5WOOV8rm3U-XWTDmnk)mkPfi*J<deB3O^IrOSJ3Cp&)DQP_t^.Ti#4_PYhU&KcBrS%+*^LYkPq%"s*GQWGg8R1c(=\h>m,#(_!+JmO=I4[U9&1c_Y4&8rD]D?%bcnAg=EteO%DnVT@Q&*jj+*<G)&Pj>-`R'Uu%*<Lr7`f>V@sElWSC$Om"k+=?'0>DBCtWN`:Nq.Z>0Xn%AP]PXqIOI%_i)4!S>.17!m%%^c_fO<8*uRcS`sdE9%W'*#Lb9S@?Y9IZc:NO8>Z7Nil<pi?on,:[W"F)+gMhMT&bPZGi'*&7N+N^iK`:oYBha.gBH<Q`p/jq]u*3hj=`u_`W6~>
+endstream
+endobj
+12 0 obj
+<<
+/F1 6 0 R
+/F2 8 0 R
+>>
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000120 00000 n 
+0000000169 00000 n 
+0000000424 00000 n 
+0000006805 00000 n 
+0000006912 00000 n 
+0000007019 00000 n 
+0000007131 00000 n 
+0000007243 00000 n 
+0000007445 00000 n 
+0000008052 00000 n 
+trailer
+<<
+/Size 13
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+8094
+%%EOF

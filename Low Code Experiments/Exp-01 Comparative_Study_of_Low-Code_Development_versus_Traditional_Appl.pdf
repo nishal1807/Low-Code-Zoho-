@@ -1,0 +1,446 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 10 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 6591
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.721569 .772549 .839216 RG
+n 51.02362 42.51969 m 544.252 42.51969 l S
+BT /F1 8 Tf 9.6 TL ET
+.333333 .333333 .333333 rg
+BT 1 0 0 1 51.02362 25.51181 Tm (Zoho Creator Lab Record | Insurance Claim Management) Tj T* ET
+BT 1 0 0 1 518.9 25.51181 Tm (Page 1) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 753.685 cm
+Q
+q
+1 0 0 1 57.02362 739.685 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL 203.9392 0 Td (EXPERIMENT 1) Tj T* -203.9392 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 679.685 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 28 Tm /F2 18 Tf 23 TL 11.06917 0 Td (Comparative Study of Low-Code Development versus) Tj T* 73.017 0 Td (Traditional Application Development) Tj T* -84.08617 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 653.685 cm
+q
+BT 1 0 0 1 0 4 Tm 89.53417 0 Td 14 TL /F1 10 Tf .333333 .333333 .333333 rg (Insurance Claim Request & Processing Management | Zoho Creator) Tj T* -89.53417 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 628.3465 cm
+Q
+q
+1 0 0 1 57.02362 604.3465 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (Objective) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 572.3465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.7 Tm /F1 9.3 Tf 13 TL (Compare low-code development with traditional coding and identify why Zoho Creator is suitable for an) Tj T* (insurance-claim workflow.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 548.3465 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (Platform / Application) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 503.3465 cm
+q
+BT 1 0 0 1 0 29.7 Tm 13 TL /F1 9.3 Tf 0 0 0 rg (Platform: Zoho Creator. Application: Insurance Claim Command Center / Insurance Claim Request & Processing) Tj T* (Management. Primary form: Claim_Request_Form. The LC-04 specification and supplied application export were) Tj T* (used as the project context.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 479.3465 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (Theory) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 434.3465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.7 Tm /F1 9.3 Tf 13 TL (Low-code platforms provide visual form builders, reports, workflows and integrations with limited hand-written code.) Tj T* (Traditional development provides more direct control over architecture and code, but usually requires more) Tj T* (implementation and maintenance effort.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 410.3465 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (Procedure) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 391.3465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.7 Tm /F1 9.3 Tf 13 TL (1. Define the insurance-claim problem: capture claimant, policy, incident, amount and supporting evidence.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 372.3465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.7 Tm /F1 9.3 Tf 13 TL (2. Compare both approaches for development time, skills, customization, testing, deployment and maintenance.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 340.3465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.7 Tm /F1 9.3 Tf 13 TL (3. Map the current Insurance Claim Command Center to low-code capabilities: forms, reports, fields, calculations and) Tj T* (workflow options.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 321.3465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.7 Tm /F1 9.3 Tf 13 TL (4. Record trade-offs and select the approach suitable for a college-scale claim-management application.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 297.3465 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (Design / Observation Table) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 156.3465 cm
+q
+.141176 .278431 .419608 rg
+n 0 136 493.2283 -20 re f*
+1 1 1 rg
+n 0 116 493.2283 -29 re f*
+.952941 .964706 .980392 rg
+n 0 87 493.2283 -29 re f*
+1 1 1 rg
+n 0 58 493.2283 -29 re f*
+.952941 .964706 .980392 rg
+n 0 29 493.2283 -29 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 121 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Factor) Tj T* ET
+Q
+Q
+q
+1 0 0 1 169.4094 121 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Low-code / Zoho Creator) Tj T* ET
+Q
+Q
+q
+1 0 0 1 333.8189 121 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Traditional development) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 101.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.7 Tf 9.5 TL (Initial build) Tj T* ET
+Q
+Q
+q
+1 0 0 1 169.4094 101.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.7 Tf 9.5 TL (Visual forms and reports accelerate setup) Tj T* ET
+Q
+Q
+q
+1 0 0 1 333.8189 92 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 11.3 Tm /F1 7.7 Tf 9.5 TL (Forms, APIs and database often coded) Tj T* (manually) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 72.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.7 Tf 9.5 TL (Customization) Tj T* ET
+Q
+Q
+q
+1 0 0 1 169.4094 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 11.3 Tm /F1 7.7 Tf 9.5 TL (Deluge and supported extensions; platform) Tj T* (boundaries apply) Tj T* ET
+Q
+Q
+q
+1 0 0 1 333.8189 72.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.7 Tf 9.5 TL (Broad control over code and architecture) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 43.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.7 Tf 9.5 TL (Maintenance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 169.4094 34 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 11.3 Tm /F1 7.7 Tf 9.5 TL (Platform-managed infrastructure;) Tj T* (configuration still needs governance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 333.8189 34 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 11.3 Tm /F1 7.7 Tf 9.5 TL (Team manages code, dependencies and) Tj T* (deployment) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 14.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.7 Tf 9.5 TL (Best fit) Tj T* ET
+Q
+Q
+q
+1 0 0 1 169.4094 14.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.7 Tf 9.5 TL (Internal workflow apps and rapid prototypes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 333.8189 5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 11.3 Tm /F1 7.7 Tf 9.5 TL (Highly specialized systems needing full) Tj T* (control) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.721569 .772549 .839216 RG
+.4 w
+n 0 136 m 493.2283 136 l S
+n 0 0 m 493.2283 0 l S
+n 0 0 m 0 136 l S
+n 493.2283 0 m 493.2283 136 l S
+n 0 116 m 493.2283 116 l S
+n 0 87 m 493.2283 87 l S
+n 0 58 m 493.2283 58 l S
+n 0 29 m 493.2283 29 l S
+n 164.4094 0 m 164.4094 136 l S
+n 328.8189 0 m 328.8189 136 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 149.3465 cm
+Q
+q
+1 0 0 1 57.02362 125.3465 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (Result / Conclusion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 80.34646 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.7 Tm /F1 9.3 Tf 13 TL (Low-code is a practical fit for quickly building an insurance claim intake and tracking prototype. Traditional) Tj T* (development may be preferable where deep architectural control, complex integrations or platform independence are) Tj T* (critical.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 507.8156 807.8898 Tm
+(Nishal P) Tj
+T*
+ET
+BT
+/F1-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 497.2356 793.8898 Tm
+(241501130) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/Contents 11 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 12 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+11 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 572
+>>
+stream
+GarVK9on$O'YNU1bV?6*X<IS!ePj*F<fsgg]B`C6(__Z3K8]7lOo")G,hYndg6RlX)eS4A:h8O]kq<8!98!+3$Hg`^5]`*`H,A0FnRk-;7Z4PVW@Cs0@GS##7S>jn>8S'=A8GO,jGXe[%^5t&SeG.0PVc\^-iQi9Y=X"K-gUE_G'/5g5YiHY6s($<l%YoMYl&),((X/\D]PEoMe=K?lgP]p1X1q!+n;59)Xs::hTJ2'rrLA_1`rLb(&s$<fAo05#-\L1c]H'a^,l&rM3'412BfmR<*!X??4]S?<>K#119\"SAsa"mW,VdXc=%MDN9,4"Fn3VeZ3J<pGpWK?"7,Np5aL-5Ef;%3:>sYQaYeE&+ab8u[s.6W?"_+r/\lG(Xcjd<L#5P%F/!k&--F8*/!6>7]QcG3ki="ZC6e#cg<8?Lm^0jom0]$kZW$k-$F!C^6P?Zl4Q)CKh@@TB\Wc5ieYVjFo"pidlK;"*VSfHVC3Kpjad,u2&m+gX$Xm].5K3<se)&B]Mclb`A.]JeiY+dom4MeV%fu#`3V'68h2`&umJpsGX(=e=:'-?'i=Ftc~>
+endstream
+endobj
+12 0 obj
+<<
+/F1 6 0 R
+/F2 8 0 R
+>>
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000120 00000 n 
+0000000169 00000 n 
+0000000424 00000 n 
+0000007067 00000 n 
+0000007174 00000 n 
+0000007281 00000 n 
+0000007393 00000 n 
+0000007505 00000 n 
+0000007707 00000 n 
+0000008371 00000 n 
+trailer
+<<
+/Size 13
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+8413
+%%EOF
